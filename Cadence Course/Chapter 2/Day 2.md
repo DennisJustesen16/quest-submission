@@ -14,10 +14,13 @@
     
     -   A variable named `myNumber` that has type `Int` (set it to 0 when the contract is deployed)
     -   A function named `updateMyNumber` that takes in a new number named `newNumber` as a parameter that has type `Int` and updates `myNumber` to be `newNumber`
+    
     ![Pasted image 20221117194405](https://user-images.githubusercontent.com/78741323/204105931-8478a0ab-4c04-4808-a8d4-526aa983d99a.png)
 
 -   Add a script that reads `myNumber` from the contract
+    
     ![Pasted image 20221117194425](https://user-images.githubusercontent.com/78741323/204105946-62ae4e61-07b0-4d43-be7c-1aad313c1e8c.png)
 
 -   Add a transaction that takes in a parameter named `myNewNumber` and passes it into the `updateMyNumber` function. Verify that your number changed by running the script again.
+ 
  ![Pasted image 20221117194440](https://user-images.githubusercontent.com/78741323/204105975-c58d02c5-5609-4d74-a6f5-2ed378c6b05b.png)
