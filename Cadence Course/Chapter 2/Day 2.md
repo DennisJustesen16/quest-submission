@@ -24,3 +24,5 @@
 -   Add a transaction that takes in a parameter named `myNewNumber` and passes it into the `updateMyNumber` function. Verify that your number changed by running the script again.
  
  ![Pasted image 20221117194440](https://user-images.githubusercontent.com/78741323/204105975-c58d02c5-5609-4d74-a6f5-2ed378c6b05b.png)
+
+ ![image](https://user-images.githubusercontent.com/78741323/206121047-8ce78c74-9ced-4b24-b930-cb78385e2993.png)
